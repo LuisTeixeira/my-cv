@@ -1,0 +1,127 @@
+{
+    "profile": {
+        "name": "Luís Filipe da Mota Teixeira",
+        "position": "Software Engineer",
+        "photo": "http://link.to.photo",
+        "email": "luis.teixeira@lmteixeira.com",
+        "phone": "+49 1522 535 82 06",
+        "website": "http://lmteixeira.com",
+        "github": "https://github.com/luisteixeira",
+        "linkedin": "https://www.linkedin.com/in/luismotateixeira/",
+        "location": {
+            "country": "Germany",
+            "state": "Hessen",
+            "city": "Darmstadt",
+            "postalCode": "64295"
+        },
+        "summary": "Every time you close your eyes lies, lies!"
+    },
+    "workExperience": [
+        {
+            "company": "VisionSpace Technologies, Lda",
+            "position": "Intern Software Engineer",
+            "current": false,
+            "startDate": "June 2013",
+            "endDate": "September 2013",
+            "summary": "BlaBlaBla...Invistigation project with Minho University...blablabla...Power Comsumption",
+            "achievments": [
+                "I am amazing because reason 1",
+                "I am amazing because reason 2",
+                "I am amazing because reason 3"
+            ],
+            "location": {
+                "country": "Portugal",
+                "state": "Porto",
+                "city": "Matosinhos",
+                "postalCode": "4454"
+            }
+        },
+        {
+            "company": "VisionSpace Technologies, Lda",
+            "position": "Software Engineer",
+            "current": false,
+            "startDate": "March 2014",
+            "endDate": "June 2016",
+            "summary": "continue Invistigation project with Minho University...blablabla...Eudart...blablabla...Salt devops esa",
+            "achievments": [
+                "I am amazing because reason 1",
+                "I am amazing because reason 2",
+                "I am amazing because reason 3"
+            ],
+            "location": {
+                "country": "Portugal",
+                "state": "Porto",
+                "city": "Matosinhos",
+                "postalCode": "4454"
+            }
+        },
+        {
+            "company": "VisionSpace Technologies, Gmbh",
+            "position": "Software Engineer",
+            "current": true,
+            "startDate": "June 2016",
+            "endDate": "",
+            "summary": "continue Invistigation project with Minho University...blablabla...Eudart...blablabla...Salt devops esa",
+            "achievments": [
+                "I am amazing because reason 1",
+                "I am amazing because reason 2",
+                "I am amazing because reason 3"
+            ],
+            "location": {
+                "country": "Germany",
+                "state": "Hessen",
+                "city": "Darmstadt",
+                "postalCode": "64283"
+            }
+        }
+    ],
+    "education": [
+        {
+            "institution": "Instituto Superior de Engenharia do Porto",
+            "course": "Software Engineering",
+            "degree": "B.Eng.",
+            "endDate": "June 2014"
+        }
+    ],
+    "skills": [
+        "Java",
+        "Spring",
+        "Micronaut",
+        "RabbitMQ",
+        "Python",
+        "C++",
+        "C",
+        "SQL",
+        "HTML",
+        "Javascript",
+        "React",
+        "Angular",
+        "NodeJs",
+        "Android",
+        "Docker",
+        "Linux",
+        "MacOs"
+    ],
+    "languages": [
+        {
+            "language": "Portuguese",
+            "level": "Native",
+            "levelNumber": 5
+        },
+        {
+            "language": "English",
+            "level": "Business Fluent",
+            "levelNumber": 4
+        },
+        {
+            "language": "Spanish",
+            "level": "Proficient",
+            "levelNumber": 3
+        },
+        {
+            "language": "German",
+            "level": "Beginner",
+            "levelNumber": 1
+        }
+    ]
+}
