@@ -1,3 +1,10 @@
+# React app with personal CV
+This repository contains a react app with my personal CV.
+The live version can be checked at http://lmteixeira.com 
+
+**This project was based on the following repo https://github.com/iamskok/react-resume**
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
