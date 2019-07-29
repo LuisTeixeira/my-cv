@@ -7,7 +7,7 @@ class Profile extends Component {
 
         return (
             <div className="profile">
-                <img className="profile_image" src={photo} alt="Profile"/>
+                {/* <img className="profile_image" src={photo} alt="Profile"/> */}
                 <h1 className="profile_header">{profile.name}</h1>
                 <h4 className="profile_subheader">
                     {profile.location.city}

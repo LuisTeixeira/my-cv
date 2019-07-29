@@ -3,13 +3,13 @@ import Job from './Job';
 
 class Card extends Component {
     render() {
-        const work = this.props.work;
+        const work = this.props.work.slice().reverse();
 
         return(
             <div className="card_container">
-                <div className="card_content">
+                <h1>Job Experince</h1>
                 {
-                    work.map((key, index) => {
+                    work.slice().reverse().map((key, index) => {
                         return(
                             <Job
                                 key={key}
@@ -18,7 +18,6 @@ class Card extends Component {
                         );
                     })
                 }
-                </div>
             </div>
         );
     }

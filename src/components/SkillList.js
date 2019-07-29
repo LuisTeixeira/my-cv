@@ -6,9 +6,7 @@ class SkillList extends Component {
         const skills = this.props.skills;
 
         return(
-            <div 
-                className="skills-list_container"
-                style={{display: 'flex'}}>
+            <div className="skills-list_container">
                 <div className="skills-list_modal">
                     <h1 className="skills-list_header">Skill Set</h1>
                     <br/>
