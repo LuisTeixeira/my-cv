@@ -8,6 +8,7 @@ class Card extends Component {
         return(
             <div className="card_container">
                 <h1>Job Experince</h1>
+                <br/>
                 {
                     work.slice().reverse().map((key, index) => {
                         return(
