@@ -10,11 +10,11 @@ class SkillList extends Component {
                 <div className="skills-list_modal">
                     <h1 className="skills-list_header">Skill Set</h1>
                     <br/>
-                    <ul className="skills-list">
+                    <div className="row">
                         {
                             skills.map((key, index) => <Skill key={key} skill={skills[index]}/>)
                         }
-                    </ul>
+                    </div>
                 </div>
             </div>
         );
