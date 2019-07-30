@@ -84,23 +84,80 @@
         }
     ],
     "skills": [
-        "Java",
-        "Spring",
-        "Micronaut",
-        "RabbitMQ",
-        "Python",
-        "C++",
-        "C",
-        "SQL",
-        "HTML",
-        "Javascript",
-        "React",
-        "Angular",
-        "NodeJs",
-        "Android",
-        "Docker",
-        "Linux",
-        "MacOs"
+        {
+            "name": "Java",
+            "value": 90,
+            "description": "Why do I know this. What I have done with this. Examples of how to apply this skill."
+        },
+        {
+            "name": "Spring",
+            "value": 90,
+            "description": "Why do I know this. What I have done with this. Examples of how to apply this skill."
+        }, {
+            "name": "Python",
+            "value": 90,
+            "description": "Why do I know this. What I have done with this. Examples of how to apply this skill."
+        },
+        {
+            "name": "Linux",
+            "value": 90,
+            "description": "Why do I know this. What I have done with this. Examples of how to apply this skill."
+        },
+        {
+            "name": "Docker",
+            "value": 90,
+            "description": "Why do I know this. What I have done with this. Examples of how to apply this skill."
+        },
+        {
+            "name": "Javascript",
+            "value": 90,
+            "description": "Why do I know this. What I have done with this. Examples of how to apply this skill."
+        },
+        {
+            "name": "React",
+            "value": 90,
+            "description": "Why do I know this. What I have done with this. Examples of how to apply this skill."
+        },
+        {
+            "name": "NodeJS",
+            "value": 90,
+            "description": "Why do I know this. What I have done with this. Examples of how to apply this skill."
+        },
+        {
+            "name": "RabitMQ",
+            "value": 90,
+            "description": "Why do I know this. What I have done with this. Examples of how to apply this skill."
+        },
+        {
+            "name": "Angular",
+            "value": 90,
+            "description": "Why do I know this. What I have done with this. Examples of how to apply this skill."
+        },
+        {
+            "name": "C++",
+            "value": 90,
+            "description": "Why do I know this. What I have done with this. Examples of how to apply this skill."
+        },
+        {
+            "name": "MySQL",
+            "value": 90,
+            "description": "Why do I know this. What I have done with this. Examples of how to apply this skill."
+        },
+        {
+            "name": "Micronaut",
+            "value": 90,
+            "description": "Why do I know this. What I have done with this. Examples of how to apply this skill."
+        },
+        {
+            "name": "Go",
+            "value": 90,
+            "description": "Why do I know this. What I have done with this. Examples of how to apply this skill."
+        },
+        {
+            "name": "C",
+            "value": 90,
+            "description": "Why do I know this. What I have done with this. Examples of how to apply this skill."
+        }
     ],
     "languages": [
         {
