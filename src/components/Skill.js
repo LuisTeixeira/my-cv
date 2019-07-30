@@ -6,7 +6,7 @@ class Skill extends Component {
         const description = this.props.skill.description;
         return(
             <div className="col-sm-6">
-                <div className="card mt-2">
+                <div className="card mb-2">
                     <div className="card-body">
                         <h5>{this.props.skill.name}</h5>
                         <hr/>
