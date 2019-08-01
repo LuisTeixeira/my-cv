@@ -1,31 +1,21 @@
 import React from 'react';
-import CSSTransactionGroup from 'react-addons-css-transition-group';
 
 const Contact = (props) => {
     const { email, website, github, linkedin } = props.profile;
-    const layout = {display: 'flex', flexDirection: 'column', alignItems: 'center'}
     return(
-        <div className='contact_container' style={{display: 'flex'}}>
-            <div className='contact_modal'>
-                <CSSTransactionGroup
-                    style={layout}
-                    component='div'
-                    transitionName='slide'
-                    transitionEnterTimeout={5000}
-                    transitionLeaveTimeout={3000}
-                >
-                    <h1 className='contact_header'>Contact</h1>
+        <div>
+                    <h3 className='contact_header'>Contact</h3>
 
-                    <h3>
+                    <p>
                         <a 
                             href={"mailto:" + email}
                             style={{textDecoration: 'none'}}
                         >
                             {email}
                         </a>
-                    </h3>
+                    </p>
 
-                    <h3>
+                    <p>
                         <a 
                             href={website}
                             style={{textDecoration: 'none'}}
@@ -34,9 +24,9 @@ const Contact = (props) => {
                         >
                             {website}
                         </a>
-                    </h3>
+                    </p>
 
-                    <h3>
+                    <p>
                         <a 
                             href={github}
                             style={{textDecoration: 'none'}}
@@ -45,9 +35,9 @@ const Contact = (props) => {
                         >
                             {github}
                         </a>
-                    </h3>
+                    </p>
 
-                    <h3>
+                    <p>
                         <a 
                             href={linkedin}
                             style={{textDecoration: 'none'}}
@@ -56,11 +46,9 @@ const Contact = (props) => {
                         >
                             {linkedin}
                         </a>
-                    </h3>
-
-                </CSSTransactionGroup>
+                    </p>
             </div>
-        </div>
+
     );
 }
 

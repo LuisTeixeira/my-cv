@@ -1,6 +1,6 @@
 # React app with personal CV
 This repository contains a react app with my personal CV.
-The live version can be checked at http://lmteixeira.com 
+The live version can be checked at http://www.lmteixeira.com 
 
 **This project was based on the following repo https://github.com/iamskok/react-resume**
 

@@ -8,7 +8,7 @@ class SkillList extends Component {
         return(
             <div className="skills-list_container">
                 <div className="skills-list_modal">
-                    <h1 className="skills-list_header">Skill Set</h1>
+                    <h3 className="skills-list_header">Skills</h3>
                     <br/>
                     <div className="row">
                         {
