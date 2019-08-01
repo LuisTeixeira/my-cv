@@ -17,7 +17,6 @@ class App extends Component {
           <div className="row">
             <div className="col-md-4 d-md-block">
               <Profile profile={resume.profile}/>
-              <hr/>
               <Contact profile={resume.profile}/>
               <hr/>
               <SkillList skills={resume.skills}/>

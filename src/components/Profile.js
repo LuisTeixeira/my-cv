@@ -6,16 +6,18 @@ class Profile extends Component {
         const profile = this.props.profile;
 
         return (
-            <div>
-                <div style={{"textAlign": "center"}}>
-                <img className="rounded-circle" src={photo} alt="Profile"/>
-                </div>
-                <h1 className="profile_header">{profile.name}</h1>
-                <h4 className="profile_subheader">
-                    {profile.location.city}
-                </h4>
+            <div className="card border-0 shadow p-2 mb-4">
+                <div className="card-body">
+                    <div style={{"textAlign": "center"}}>
+                        <img className="rounded-circle" src={photo} alt="Profile"/>
+                    </div>
+                    <h1 className="profile_header">{profile.name}</h1>
+                    <h4 className="profile_subheader">
+                        {profile.location.city}
+                    </h4>
 
-                <p>{profile.summary}</p>
+                    <p>{profile.summary}</p>
+                </div>
             </div>
         );
     }
