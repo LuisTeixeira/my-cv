@@ -6,19 +6,21 @@ class Card extends Component {
         const work = this.props.work.slice().reverse();
 
         return(
-            <div className="card_container">
-                <h1>Job Experience</h1>
-                <br/>
-                {
-                    work.slice().reverse().map((key, index) => {
-                        return(
-                            <Job
-                                key={key}
-                                details={work[index]}
-                            />
-                        );
-                    })
-                }
+            <div className="card border-0 shadow mb-4">
+                <div className="card-body">
+                    <h1>Job Experience</h1>
+                    <hr/>
+                    {
+                        work.slice().reverse().map((key, index) => {
+                            return(
+                                <Job
+                                    key={key}
+                                    details={work[index]}
+                                />
+                            );
+                        })
+                    }
+                </div>
             </div>
         );
     }

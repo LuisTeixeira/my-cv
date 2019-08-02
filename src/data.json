@@ -2,7 +2,6 @@
     "profile": {
         "name": "Luís Teixeira",
         "position": "Software Engineer",
-        "photo": "http://link.to.photo",
         "email": "luis.teixeira@lmteixeira.com",
         "phone": "+49 1522 535 82 06",
         "website": "http://www.lmteixeira.com",
@@ -14,7 +13,7 @@
             "city": "Darmstadt",
             "postalCode": "64295"
         },
-        "summary": "Every time you close your eyes lies, lies!"
+        "summary": "Software Engineer based in Darmstadt. Since graduating in 2014 I have been as a Software Engineer in the Space Sector. Although mainly working as a backend engineering I am also passionate about frontend development and DevOps."
     },
     "workExperience": [
         {
@@ -23,11 +22,10 @@
             "current": false,
             "startDate": "June 2013",
             "endDate": "September 2013",
-            "summary": "BlaBlaBla...Invistigation project with Minho University...blablabla...Power Comsumption",
+            "summary": "As Intern Software Engineer in VisionSpace Technologies, Luís Teixeira participated in the design and implementation of an energy measurement tool in order to measure software consumption. The intensive use of computing resources in the aerospace sector plays an important role to the planning, implementation and maintenance of space missions. Knowing that nearly 90% of energy consumption in a computer system happens because of software execution, GreenSSCM optimizes energy consumption via software for software components for this sector. GreenSSCM transforms high level software code into more suitable software code that performs the same task but consumes less energy. In the scope of the GreenSSCM project Luís Teixeira developed a platform for measuring software energy consumption. This tool was developed in Python and integrated with Jenkins allows the user automate a set of tests in order check the energy consumption of a given software.",
             "achievments": [
-                "I am amazing because reason 1",
-                "I am amazing because reason 2",
-                "I am amazing because reason 3"
+                "Devolopment of platform for the measurement of software energy consumption",
+                "Ulisses Costa, Luís Teixeira, Miguel Lordelo, Tiago Carvalho, Orlando Belo, Victor Fonte, Pedro Henriques, António Ribeiro and João Saraiva. GreenSSCM: Green Software for Space Control Missions. Paper presented at IT4ENERGY, April 2015."
             ],
             "location": {
                 "country": "Portugal",
@@ -86,77 +84,70 @@
     "skills": [
         {
             "name": "Java",
-            "value": 90,
-            "description": "Why do I know this. What I have done with this. Examples of how to apply this skill."
+            "value": 90
         },
         {
             "name": "Spring",
-            "value": 90,
-            "description": "Why do I know this. What I have done with this. Examples of how to apply this skill."
+            "value": 70
         }, {
             "name": "Python",
-            "value": 90,
-            "description": "Why do I know this. What I have done with this. Examples of how to apply this skill."
+            "value": 70
         },
         {
             "name": "Linux",
-            "value": 90,
-            "description": "Why do I know this. What I have done with this. Examples of how to apply this skill."
+            "value": 90
         },
         {
             "name": "Docker",
-            "value": 90,
-            "description": "Why do I know this. What I have done with this. Examples of how to apply this skill."
+            "value": 65
         },
         {
             "name": "Javascript",
-            "value": 90,
-            "description": "Why do I know this. What I have done with this. Examples of how to apply this skill."
+            "value": 65
         },
         {
             "name": "React",
-            "value": 90,
-            "description": "Why do I know this. What I have done with this. Examples of how to apply this skill."
+            "value": 65
         },
         {
             "name": "NodeJS",
-            "value": 90,
-            "description": "Why do I know this. What I have done with this. Examples of how to apply this skill."
+            "value": 60
         },
         {
             "name": "RabitMQ",
-            "value": 90,
-            "description": "Why do I know this. What I have done with this. Examples of how to apply this skill."
+            "value": 60
         },
         {
             "name": "Angular",
-            "value": 90,
-            "description": "Why do I know this. What I have done with this. Examples of how to apply this skill."
+            "value": 60
         },
         {
             "name": "C++",
-            "value": 90,
-            "description": "Why do I know this. What I have done with this. Examples of how to apply this skill."
+            "value": 55
         },
         {
             "name": "MySQL",
-            "value": 90,
-            "description": "Why do I know this. What I have done with this. Examples of how to apply this skill."
+            "value": 60
         },
         {
             "name": "Micronaut",
-            "value": 90,
-            "description": "Why do I know this. What I have done with this. Examples of how to apply this skill."
+            "value": 50
         },
         {
             "name": "Go",
-            "value": 90,
-            "description": "Why do I know this. What I have done with this. Examples of how to apply this skill."
+            "value": 50
         },
         {
             "name": "C",
-            "value": 90,
-            "description": "Why do I know this. What I have done with this. Examples of how to apply this skill."
+            "value": 50
+        },
+        {
+            "name": "SaltStack",
+            "value": 65
+        },
+        {
+            "name": "Chef",
+            "value": 55
         }
     ],
     "languages": [
