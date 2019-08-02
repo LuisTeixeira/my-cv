@@ -9,7 +9,7 @@ class Profile extends Component {
             <div className="card border-0 shadow p-2 mb-4">
                 <div className="card-body">
                     <div style={{"textAlign": "center"}}>
-                        <img className="rounded-circle" src={photo} alt="Profile"/>
+                        <img id="profile" className="rounded-circle img-fluid" src={photo} alt="Profile"/>
                     </div>
                     <h1 className="profile_header">{profile.name}</h1>
                     <h4 className="profile_subheader">
