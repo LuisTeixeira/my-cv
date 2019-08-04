@@ -1,4 +1,7 @@
 import React from 'react';
+import {FontAwesomeIcon} from '@fortawesome/react-fontawesome'
+import {faLinkedinIn, faGithubAlt} from '@fortawesome/free-brands-svg-icons'
+import {faEnvelope, faGlobe} from '@fortawesome/fontawesome-free-solid'
 
 const Contact = (props) => {
     const { email, website, github, linkedin } = props.profile;
@@ -7,47 +10,45 @@ const Contact = (props) => {
             <div className="card-body">
                 <h3 className='contact_header'>Contact</h3>
                 <hr/>
-                <p>
-                    <a 
-                        href={"mailto:" + email}
-                        style={{textDecoration: 'none'}}
-                    >
-                        {email}
-                    </a>
-                </p>
 
-                <p>
-                    <a 
-                        href={website}
-                        style={{textDecoration: 'none'}}
-                        target="_blank"
-                        rel = "noopener noreferrer"
-                    >
-                        {website}
-                    </a>
-                </p>
-
-                <p>
-                    <a 
-                        href={github}
-                        style={{textDecoration: 'none'}}
-                        target="_blank"
-                        rel = "noopener noreferrer"
-                    >
-                        {github}
-                    </a>
-                </p>
-
-                <p>
-                    <a 
-                        href={linkedin}
-                        style={{textDecoration: 'none'}}
-                        target="_blank"
-                        rel = "noopener noreferrer"
-                    >
-                        {linkedin}
-                    </a>
-                </p>
+                <div className="row">
+                    <div className="col-3">
+                        <a href={"mailto:" + email}
+                           style={{textDecoration: 'none', color: 'inherit'}}>
+                            <h3><FontAwesomeIcon icon={faEnvelope}/></h3>
+                        </a>
+                    </div>
+                    <div className="col-3">
+                        <a 
+                            href={website}
+                            style={{textDecoration: 'none', color: 'inherit'}}
+                            target="_blank"
+                            rel = "noopener noreferrer"
+                        >
+                            <h3><FontAwesomeIcon icon={faGlobe}/></h3>
+                        </a>
+                    </div>
+                    <div className="col-3">
+                        <a 
+                            href={github}
+                            style={{textDecoration: 'none', color: 'inherit'}}
+                            target="_blank"
+                            rel = "noopener noreferrer"
+                        >
+                            <h3><FontAwesomeIcon icon={faGithubAlt}/></h3>
+                        </a>
+                    </div>
+                    <div className="col-3">
+                        <a 
+                            href={linkedin}
+                            style={{textDecoration: 'none', color: 'inherit'}}
+                            target="_blank"
+                            rel = "noopener noreferrer"
+                        >
+                            <h3><FontAwesomeIcon icon={faLinkedinIn}/></h3>
+                        </a>
+                    </div>
+                </div>
             </div>
         </div>
     );

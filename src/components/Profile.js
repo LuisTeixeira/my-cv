@@ -17,7 +17,7 @@ class Profile extends Component {
                     </h4>
 
                     <p>{profile.summary}</p>
-                </div>
+                    </div>        
             </div>
         );
     }
