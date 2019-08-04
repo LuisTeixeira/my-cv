@@ -16,7 +16,11 @@ class Profile extends Component {
                         {profile.location.city}
                     </h4>
 
-                    <p>{profile.summary}</p>
+                    {profile.summary.map((key, index) => {
+                        return(
+                            <p>{profile.summary[index]}</p>
+                        );
+                    })}
                     </div>        
             </div>
         );

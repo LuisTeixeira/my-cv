@@ -13,7 +13,11 @@
             "city": "Darmstadt",
             "postalCode": "64295"
         },
-        "summary": "Software Engineer based in Darmstadt. Since graduating in 2014 I have been as a Software Engineer in the Space Sector. Although mainly working as a backend engineering I am also passionate about frontend development and DevOps."
+        "summary": [
+            "Software Engineer based in Darmstadt.",
+            "Since graduating in 2014 I have been as a Software Engineer in the Space Sector.",
+            "Although mainly working as a backend engineering I am also passionate about frontend development and DevOps."
+        ]
     },
     "workExperience": [
         {
@@ -22,7 +26,11 @@
             "current": false,
             "startDate": "June 2013",
             "endDate": "September 2013",
-            "summary": "As Intern Software Engineer in VisionSpace Technologies, Luís Teixeira participated in the design and implementation of an energy measurement tool in order to measure software consumption. The intensive use of computing resources in the aerospace sector plays an important role to the planning, implementation and maintenance of space missions. Knowing that nearly 90% of energy consumption in a computer system happens because of software execution, GreenSSCM optimizes energy consumption via software for software components for this sector. GreenSSCM transforms high level software code into more suitable software code that performs the same task but consumes less energy. In the scope of the GreenSSCM project Luís Teixeira developed a platform for measuring software energy consumption. This tool was developed in Python and integrated with Jenkins allows the user automate a set of tests in order check the energy consumption of a given software.",
+            "summary": [
+                "As Intern Software Engineer in VisionSpace Technologies, Luís Teixeira participated in the design and implementation of an energy measurement tool in order to measure software power consumption.",
+                "The intensive use of computing resources in the aerospace sector plays an important role to the planning, implementation and maintenance of space missions. Knowing that nearly 90% of energy consumption in a computer system happens because of software execution, GreenSSCM optimizes energy consumption via software for software components for this sector. GreenSSCM transforms high level software code into more suitable software code that performs the same task but consumes less energy.",
+                "In the scope of the GreenSSCM project Luís Teixeira developed a platform for measuring software energy consumption. This tool was developed in Python and integrated with Jenkins allows the user automate a set of tests in order check the energy consumption of a given software."
+            ],
             "achievments": [
                 "Devolopment of platform for the measurement of software energy consumption",
                 "Ulisses Costa, Luís Teixeira, Miguel Lordelo, Tiago Carvalho, Orlando Belo, Victor Fonte, Pedro Henriques, António Ribeiro and João Saraiva. GreenSSCM: Green Software for Space Control Missions. Paper presented at IT4ENERGY, April 2015."
@@ -40,7 +48,9 @@
             "current": false,
             "startDate": "March 2014",
             "endDate": "June 2016",
-            "summary": "continue Invistigation project with Minho University...blablabla...Eudart...blablabla...Salt devops esa",
+            "summary": [
+                "continue Invistigation project with Minho University...blablabla...Eudart...blablabla...Salt devops esa"
+            ],
             "achievments": [
                 "I am amazing because reason 1",
                 "I am amazing because reason 2",
@@ -59,7 +69,9 @@
             "current": true,
             "startDate": "June 2016",
             "endDate": "",
-            "summary": "continue Invistigation project with Minho University...blablabla...Eudart...blablabla...Salt devops esa",
+            "summary":[
+                "continue Invistigation project with Minho University...blablabla...Eudart...blablabla...Salt devops esa"
+            ],
             "achievments": [
                 "I am amazing because reason 1",
                 "I am amazing because reason 2",

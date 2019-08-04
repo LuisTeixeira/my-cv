@@ -16,7 +16,11 @@ class Job extends Component {
                 </h6>
                 <br/>
 
-                <p className="job_paragraph">{details.summary}</p>
+                {details.summary.map((key, index) => {
+                    return(
+                        <p>{details.summary[index]}</p>
+                    );
+                })}
                 <ul className="job_list">
                 {
                     details.achievments.map((key, index) => {

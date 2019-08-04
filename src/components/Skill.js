@@ -5,7 +5,7 @@ class Skill extends Component {
         const value = this.props.skill.value;
         return(
             <div className="col-sm-12">
-                <h7>{this.props.skill.name}</h7>
+                <h6>{this.props.skill.name}</h6>
                 <div className="progress">
                     <div className="progress-bar bg-info" role="progressbar" style={{"width":  value + "%"}} aria-valuenow={value} aria-valuemin="0" aria-valuemax="100"></div>
                 </div>
