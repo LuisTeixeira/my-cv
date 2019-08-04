@@ -14,14 +14,14 @@ const Contact = (props) => {
                 <div className="row">
                     <div className="col-3">
                         <a href={"mailto:" + email}
-                           style={{textDecoration: 'none', color: 'inherit'}}>
+                           style={{textDecoration: 'none', color: 'inherit', textAlign: 'center'}}>
                             <h3><FontAwesomeIcon icon={faEnvelope}/></h3>
                         </a>
                     </div>
                     <div className="col-3">
                         <a 
                             href={website}
-                            style={{textDecoration: 'none', color: 'inherit'}}
+                            style={{textDecoration: 'none', color: 'inherit', textAlign: 'center'}}
                             target="_blank"
                             rel = "noopener noreferrer"
                         >
@@ -31,7 +31,7 @@ const Contact = (props) => {
                     <div className="col-3">
                         <a 
                             href={github}
-                            style={{textDecoration: 'none', color: 'inherit'}}
+                            style={{textDecoration: 'none', color: 'inherit', textAlign: 'center'}}
                             target="_blank"
                             rel = "noopener noreferrer"
                         >
@@ -41,7 +41,7 @@ const Contact = (props) => {
                     <div className="col-3">
                         <a 
                             href={linkedin}
-                            style={{textDecoration: 'none', color: 'inherit'}}
+                            style={{textDecoration: 'none', color: 'inherit', textAlign: 'center'}}
                             target="_blank"
                             rel = "noopener noreferrer"
                         >
