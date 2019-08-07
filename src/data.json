@@ -64,13 +64,13 @@
             "summary": [
                 "After finishing my degree I returned to VisionSpace Technologies where I had previous worked as an Intern Software Engineer.",
                 "During my time in VisionSpace Technologies offices in Portugal I was part of different projects mostly as a Backend Developer.",
-                "I continued to work on the GreenSSCM project in colaboration with the computer science department of Minho's University.",
+                "I continued to work on the GreenSSCM project in collaboration with the computer science department of Minho's University.",
                 "After the conclusion of the GreenSSCM project I started as main developer on the EUDART project for the European Space Agency. EUDART it's a tool used by the European Space Agency to design and perform regression tests on some their ground segment software. The project was developed in Java using the Eclipse RCP framework.",
-                "Parellel to the development of EUDART I was also involved in the VSTART project, an implementation of EUDART for the web. VSTART shared the same core functionality and code base with EUDART with some improvemnets on top in order to make the product more comercially appealing. Besides the development of the backend I was also working closely with people working in the frontend.",
-                "At the end of my time in the portuguese office of the company I was offered the opportunity to work in a project at the European Space Operations Center in Darmstadt. The project with the duration of 3 months had the main objective of implementing a continuous integration and delivery process for the Ground Data Systems department. A case study system was implemented using tools such as: Jenkins, Nexus and SaltStack. The project was successful and the Angency decided to move on with a full scale project, with some minor changes, ie: replacing SaltStack with Chef."
+                "Parellel to the development of EUDART I was also involved in the VSTART project, an implementation of EUDART for the web. VSTART shared the same core functionality and code base with EUDART with some improvements on top in order to make the product more commercially appealing. Besides the development of the backend I was also working closely with people working in the frontend.",
+                "At the end of my time in the Portuguese office of the company I was offered the opportunity to work in a project at the European Space Operations Center in Darmstadt. The project with the duration of 3 months had the main objective of implementing a continuous integration and delivery process for the Ground Data Systems department. A case study system was implemented using tools such as: Jenkins, Nexus and SaltStack. The project was successful and the Agency decided to move on with a full scale project, with some minor changes, ie: replacing SaltStack with Chef."
             ],
             "achievments": [
-                "Massive improvment of my soft skills as a result of the GreenSSCM investigation project and the necessity of continously present the results to all the external partners;",
+                "Massive improvement of my soft skills as a result of the GreenSSCM investigation project and the necessity of continuously present the results to all the external partners;",
                 "Being the main developer on a project for a important client;",
                 "Developing a code base that was used in multiple projects;",
                 "Successfully implementing a case study project in the European Space Agency."
@@ -106,18 +106,18 @@
             "startDate": "June 2016",
             "endDate": "",
             "summary":[
-                "After working closely with the German office of VisionSpace and with the European Space Angency I was offered a position in the offices of VisionSpace in Darmstadt.",
-                "Since my move to Germany in 2016 my job is diveded in two main parts: external contractor for the End to End test and validation department of the European Space Operations Center and Software(ESOC) Engineer for VisionSpace Technologies.",
-                "As part of my work as an external contractor for ESOC I am part of a team responsible for the test and validation of all the Ground Segement Systems. We are responsible to take the latest versions of each system and perform intgration tests in order to guarantee that everything works together. Also as part of my position I am responsible to maintain the continuous integration and delivery system.",
+                "After working closely with the German office of VisionSpace and with the European Space Agency I was offered a position in the offices of VisionSpace in Darmstadt.",
+                "Since my move to Germany in 2016 my job is divided in two main parts: external contractor for the End to End test and validation department of the European Space Operations Center and Software(ESOC) Engineer for VisionSpace Technologies.",
+                "As part of my work as an external contractor for ESOC I am part of a team responsible for the test and validation of all the Ground Segment Systems. We are responsible to take the latest versions of each system and perform integration tests in order to guarantee that everything works together. Also as part of my position I am responsible to maintain the continuous integration and delivery system.",
                 "As a Software Engineer I was involved different projects, mostly a backend developer but sometimes assuming a fullstack role. During this time in the German offices of VisionSpace I was involved in two main projects both using mostly a Java technology stack.",
                 "The first of these projects is being developed for the European Space Agency and is based on Eclipse Che, an open source web IDE maintained by the Eclipse Foundation.",
-                "The second it's an comercial project developed using an microservice architecture. I am the main responsible for the service responsible for collecting data from external sources and providing it via a RESTApi to other services. Different technologies are being used accross the project with me working mostly with a JVM stack and Spring Framework. Since the project is being developed by a small team, I also had the opportunity of working on different parts of the project and gain some experience with other Technologies such as: ReactJS, Rasa.ai and OrientDB.",
+                "The second it's an comercial project developed using an microservice architecture. I am the main responsible for the service responsible for collecting data from external sources and providing it via a RESTApi to other services. Different technologies are being used across the project with me working mostly with a JVM stack and Spring Framework. Since the project is being developed by a small team, I also had the opportunity of working on different parts of the project and gain some experience with other Technologies such as: ReactJS, Rasa.ai and OrientDB.",
                 "Also as part of my work as a Software Engineer in VisionSpace I gained valuable experience on the contanarization and tools such as Docker and Kubernetes."
             ],
             "achievments": [
-                "I aquired valuable knowledge about the end to end Groung Segment Systems and protocols;",
-                "Being a key member of two main projects, having responsabilities on the architecture and design;",
-                "Move to a (Micro)service oriented architecture;"
+                "I acquired valuable knowledge about the end to end Ground Segment Systems and protocols;",
+                "Being a key member of two main projects, having responsibilities on the architecture and design;",
+                "Move to a (Micro)service oriented architecture."
             ],
             "keywords": [
                 "Java",
