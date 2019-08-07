@@ -164,12 +164,13 @@
             "value": 90
         },
         {
-            "name": "Spring",
-            "value": 70
-        }, {
             "name": "Python",
-            "value": 70
+            "value": 85
         },
+        {
+            "name": "Spring",
+            "value": 80
+        }, 
         {
             "name": "Linux",
             "value": 90
