@@ -12,8 +12,6 @@ class App extends Component {
     const resume = this.props.data;
     return (
       <div>
-        <h1 className="warning">THIS WEBSITE IS UNDER CONSTRUCTION</h1>
-        <h3>The final version will be up soon</h3>
         <div className="app container-fluid">
           <div className="row">
             <div className="col-md-4 d-md-block">
