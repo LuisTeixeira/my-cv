@@ -21,13 +21,20 @@ class Job extends Component {
                         <p>{details.summary[index]}</p>
                     );
                 })}
-                <ul className="job_list">
+                <h5>Achievments:</h5>
+                <ul>
                 {
                     details.achievments.map((key, index) => {
-                    return <li key={index}>{details.achievments[index]}</li>
+                    return <li key={key}>{details.achievments[index]}</li>
                     })
                 }
                 </ul>
+                <h4>Keywords</h4>
+                {
+                    details.keywords.map((key,index) => {
+                        return <span className="badge badge-info mr-2">{details.keywords[index]}</span>
+                    })
+                }
                 <hr/>
             </div>
         );
