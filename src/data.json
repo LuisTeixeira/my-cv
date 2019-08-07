@@ -231,22 +231,22 @@
         {
             "language": "Portuguese",
             "level": "Native",
-            "levelNumber": 5
+            "levelNumber": 100
         },
         {
             "language": "English",
             "level": "Business Fluent",
-            "levelNumber": 4
+            "levelNumber": 95
         },
         {
             "language": "Spanish",
             "level": "Proficient",
-            "levelNumber": 3
+            "levelNumber": 70
         },
         {
             "language": "German",
             "level": "Beginner",
-            "levelNumber": 1
+            "levelNumber": 10
         }
     ]
 }
