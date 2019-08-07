@@ -29,7 +29,7 @@ class Job extends Component {
                     })
                 }
                 </ul>
-                <h4>Keywords</h4>
+                <h5>Keywords</h5>
                 {
                     details.keywords.map((key,index) => {
                         return <span className="badge badge-info mr-2">{details.keywords[index]}</span>
