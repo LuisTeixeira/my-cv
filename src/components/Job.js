@@ -18,7 +18,7 @@ class Job extends Component {
 
                 {details.summary.map((key, index) => {
                     return(
-                        <p>{details.summary[index]}</p>
+                        <p className="job_description">{details.summary[index]}</p>
                     );
                 })}
                 <h5>Achievements:</h5>
