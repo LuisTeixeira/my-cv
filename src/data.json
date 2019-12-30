@@ -9,12 +9,12 @@
         "linkedin": "https://www.linkedin.com/in/luismotateixeira/",
         "location": {
             "country": "Germany",
-            "state": "Hessen",
-            "city": "Darmstadt",
-            "postalCode": "64295"
+            "state": "Baden-Württemberg",
+            "city": "Heidelberg",
+            "postalCode": "69126"
         },
         "summary": [
-            "Software Engineer based in Darmstadt.",
+            "Software Engineer based in Heidelberg.",
             "Since graduating in 2014 I have been working as a Software Engineer in the Space Sector.",
             "Although mainly working as a backend engineering I am also passionate about frontend development and DevOps."
         ]
@@ -102,9 +102,9 @@
         {
             "company": "VisionSpace Technologies, Gmbh",
             "position": "Software Engineer",
-            "current": true,
+            "current": false,
             "startDate": "June 2016",
-            "endDate": "",
+            "endDate": "December 2019",
             "summary":[
                 "After working closely with the German office of VisionSpace and with the European Space Agency I was offered a position in the offices of VisionSpace in Darmstadt.",
                 "Since my move to Germany in 2016 my job is divided in two main parts: external contractor for the End to End test and validation department of the European Space Operations Center and Software(ESOC) Engineer for VisionSpace Technologies.",
@@ -147,6 +147,31 @@
                 "state": "Hessen",
                 "city": "Darmstadt",
                 "postalCode": "64283"
+            }
+        },
+        {
+            "company": "SAP",
+            "position": "Software Engineer",
+            "current": true,
+            "startDate": "January 2020",
+            "endDate": "",
+            "summary":[
+                
+            ],
+            "achievments": [
+                
+            ],
+            "keywords": [
+                "Java",
+                "Javascript",
+                "Git",
+                "Linux"
+            ],
+            "location": {
+                "country": "Germany",
+                "state": "Baden-Württemberg",
+                "city": "Walldorf",
+                "postalCode": "69190"
             }
         }
     ],
